@@ -1,0 +1,16 @@
+{
+  "apiID": "package_dccdfc__c__function_aadh3pm4q2uti",
+  "apiName": "node_test_2",
+  "label": {
+    "zh_CN": "node_test_2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
